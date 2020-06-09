@@ -1,0 +1,3 @@
+https://jw15z.bugbounty.airlock.com/xss-strict/xss-2.php
+<a href=# download="filename.html">Test</a>
+<a href=marz style="width:100%;height:100%;position:absolute;font-size:300px;">pilot<base href="//javascript/
